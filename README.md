@@ -24,10 +24,10 @@ HTML5, CSS3 (Bootstrap), JavaScript
 
 # Backend:
 
-Node.js, Express.js
+Php
 Database:
 
-MongoDB (for user data and event management)
+sql_lite
 Authentication:
 
 JWT (JSON Web Tokens) for user authentication and authorization

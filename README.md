@@ -25,9 +25,11 @@ HTML5, CSS3 (Bootstrap), JavaScript
 # Backend:
 
 Php
+
 Database:
 
 sql_lite
+
 Authentication:
 
 JWT (JSON Web Tokens) for user authentication and authorization
